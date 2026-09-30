@@ -4,4 +4,5 @@
 * lemon
 * olive oil
 * salt
-
+## Instructions
+* soak chickpeas over night
